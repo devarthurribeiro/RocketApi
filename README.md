@@ -18,6 +18,14 @@
  
  ---
  
+ **Chat: [Discord](https://discord.gg/Uefjm9)**
+
+<div align="center">
+  <br>
+  <img src="https://rocket.chat/docs/images/default/hero.png" alt="Screenshot1" width="100%">
+  <br>
+</div>
+ 
 ### Features ✨
 
 ⚡️ **Fast**: Generate crud by resource
