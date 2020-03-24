@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/devarthurribeiro/RocketApi"><img src="/logo.svg" alt="RocketApi.io logo" height="160"></a>
+  <a href="https://github.com/devarthurribeiro/RocketApi"><img src="/static/images/logo.svg" alt="RocketApi.io logo" height="160"></a>
   <h1 align="center">RocketApi</h1>
   <br>
   <br>
