@@ -1,4 +1,3 @@
-require('dotenv').config()
 import axios, { AxiosInstance } from "axios";
 
 const baseUrl = 'https://rocket-api.now.sh/api/v1/'
