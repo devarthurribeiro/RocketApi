@@ -9,9 +9,16 @@
     "prepublish": "yarn build"
   },
   "dependencies": {
-    "dotenv": "^8.2.0"
+    "chalk": "^3.0.0",
+    "clear": "^0.1.0",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.3.0",
+    "inquirer": "^7.1.0"
   },
   "devDependencies": {
+    "@types/clear": "^0.1.0",
+    "@types/figlet": "^1.2.0",
+    "@types/inquirer": "^6.5.0",
     "@types/node": "^13.9.3",
     "ts-node-dev": "^1.0.0-pre.44",
     "typescript": "^3.8.3"
