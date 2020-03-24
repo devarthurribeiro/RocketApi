@@ -15,6 +15,10 @@ import RocketClient from "rocket-api-js";
 
 const myApi = new RocketClient({uid: "YOU-UID"});
 
+```
+
+### Usage ✅
+```js
 //Basic usage
 const products = myApi("products");
 
